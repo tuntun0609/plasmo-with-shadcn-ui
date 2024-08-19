@@ -58,7 +58,7 @@
   --chart-5: 340 75% 55%;
 }
 
-/* 
+
 @layer base {
   * {
     @apply plasmo-border-border;
@@ -67,4 +67,4 @@
   body {
     @apply plasmo-bg-background plasmo-text-foreground;
   }
-} */
+}
